@@ -1,4 +1,4 @@
-# Patent Claim Generator
+# Scope
 
 An automated, multi-stage pipeline for generating legally structured patent claims from raw patent descriptions, leveraging large language models (LLMs) and retrieval-augmented generation (RAG).
 
